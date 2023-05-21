@@ -16,3 +16,4 @@ dependencies: turtle, random, time, ctypes
 ![alt text](https://github.com/vslgrf86/artsy_fartsy_py/blob/main/circles1.png?raw=true)
 ![alt text](https://github.com/vslgrf86/artsy_fartsy_py/blob/main/circles2.png?raw=true)
 ![alt text](https://github.com/vslgrf86/artsy_fartsy_py/blob/main/keti.png?raw=true)
+![alt text](https://github.com/vslgrf86/artsy_fartsy_py/blob/main/GN_.png?raw=true)
